@@ -63,7 +63,9 @@ The data was initially spread across five different CSV files with inconsistent 
 ├── notebooks/
 │   ├── world_happiness_etl.ipynb    # Data cleaning and pipeline
 │   └── world_happiness_analysis.ipynb # Charts and insights
-└── README.md               # You are here!
+├── README.md               # You are here!
+│
+├── outputs 
 ```
 
 ---
