@@ -43,6 +43,14 @@ The data was initially spread across five different CSV files with inconsistent 
 * **The Trust Paradox:** Global trust in government saw a noticeable decline in the studied period. 📉
 * **Brazil's Spotlight:** An in-depth look at Brazil's happiness evolution and how it compares to global averages. 🇧🇷
 
+### 📈 Visualizations
+
+![Top 10 & Bottom 10 Countries](outputs/1.png)
+![Wealth vs Happiness Correlation](outputs/2.png)
+![Correlation Heatmap](outputs/3.png)
+![Global Trends Over Time](outputs/4.png)
+![Brazil's Evolution](outputs/5.png)
+
 ---
 
 ## 📂 Project Structure
