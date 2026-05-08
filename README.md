@@ -9,8 +9,8 @@ This project focuses on a complete **Data Engineering and Analysis** journey usi
 The main objective is to understand what drives happiness across different nations and how these metrics (GDP, Health, Freedom, Trust) evolved over a 5-year period.
 
 The project is divided into two main stages:
-1.  **ETL Pipeline (`etl.ipynb`):** Consolidating scattered raw data into a standardized "Golden Table".
-2.  **Exploratory Data Analysis (`analysis.ipynb`):** Visualizing trends, correlations, and regional performance.
+1.  **ETL Pipeline (`world_happiness_etl.ipynb`):** Consolidating scattered raw data into a standardized "Golden Table".
+2.  **Exploratory Data Analysis (`world_happiness_analysis.ipynb`):** Visualizing trends, correlations, and regional performance.
 
 ---
 
